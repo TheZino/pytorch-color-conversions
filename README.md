@@ -5,6 +5,12 @@ Supports batch conversion.
 
 Transformations supported:
 
+- RGB -> YCbCr
+- YCbCr -> RGB
+
+- RGB -> HSV
+- HSV -> RGB
+
 - RGB -> LAB
 - LAB -> RGB
 
